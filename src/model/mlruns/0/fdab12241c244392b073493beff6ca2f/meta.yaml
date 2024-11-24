@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fdab12241c244392b073493beff6ca2f/artifacts
+end_time: 1732222955536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdab12241c244392b073493beff6ca2f
+run_name: marvelous-gnu-286
+run_uuid: fdab12241c244392b073493beff6ca2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732222953283
+status: 3
+tags: []
+user_id: antar
